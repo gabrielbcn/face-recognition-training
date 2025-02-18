@@ -1,0 +1,9 @@
+torch
+torchvision
+graphviz
+torchview
+torchgraph
+facenet_pytorch
+matplotlib
+ipympl
+scikit-learn
