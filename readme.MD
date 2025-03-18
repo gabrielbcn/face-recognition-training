@@ -7,7 +7,7 @@
 ### To install in a mac:
 
 * Become admin
-* Install brew in a terminal: 
+* With privileges, open a terminal and install brew: 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
