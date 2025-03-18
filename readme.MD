@@ -7,7 +7,10 @@
 ### To install in a mac:
 
 * Become admin
-* Install brew: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)`
+* Install brew: 
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 * Install miniconda: `brew install miniconda`
 * Install vscode: `brew install visual-studio-code`
 * Install graphviz (optional to visualise models): `brew install graphviz`
