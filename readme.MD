@@ -46,6 +46,12 @@ conda create --name TDF_face python=3.12
 ```
 conda activate TDF_face
 ```
-* Install interactive python: `pip install ipykernel`
+* Install interactive python: 
+```
+pip install ipykernel
+```
 
 Now you can open VSCode, open the notebook and follow there.
+```
+code .
+```
