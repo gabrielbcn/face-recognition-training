@@ -14,7 +14,7 @@
 * Install miniconda: `brew install miniconda`
 * Install vscode: `brew install visual-studio-code`
 * Install graphviz (without zscaler... library to visualise models): `brew install graphviz`
-* Clone this repo: `git clone git@github.com:gabrielbcn/face-recognition-training.git`
+* Clone this repo: `git clone https://github.com/gabrielbcn/face-recognition-training.git`
 
 And follow the instructions in the notebook which are the following:
 
