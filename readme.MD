@@ -11,6 +11,7 @@
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+* Note the commands from brew installation that you need to cut and paste to make brew work.
 * Install miniconda: 
 ```
 brew install miniconda
