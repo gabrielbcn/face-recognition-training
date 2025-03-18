@@ -36,7 +36,7 @@ And follow the instructions in the notebook which are the following:
 
 * If new to conda:
 ```
-conda init
+conda init zsh
 ```
 * Create a virtual environment for this experiment: 
 ```
